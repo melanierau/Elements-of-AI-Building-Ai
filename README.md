@@ -3,7 +3,8 @@
 ## Background: 
 What is the problem your idea will solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-## Data and AI techniques: 
+## Summary
+Data and AI techniques: 
 What data sources does your project depend on? Almost all AI solutions depend on some data. The availability and quality of the data are essential. Which AI techniques do you think will be helpful? Depending on whether you've been doing the programming exercises or not, you may choose to include a concrete demo implemented by coding, using some actual data!
 
 ## How is it used: 
